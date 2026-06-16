@@ -1,14 +1,13 @@
 ## 👋 Hey there, I'm Ipshita!
 
 - 🎓 AI & ML Engineering student
-- 💡 Passionate about *Java*, *Python*, and *cutting-edge AI technologies*
+- 💡 Passionate about *Python*, and *cutting-edge AI technologies*
 - 🤖 Actively exploring the world of *Machine Learning* and *Artificial Intelligence*
 - 🌱 Curious and committed to learning new tools, frameworks, and tech stacks
 
 ## 🧠 Currently Learning
 
-- 📚 *Machine Learning* concepts and algorithms  
-- ☕ Advanced *Java* programming and OOP design  
+- 📚 *Machine Learning* concepts and algorithms   
 - 🐍 Practical *Python* for AI applications  
 - 🧠 *Neural Networks*, *Deep Learning*, and *Model Training* basics  
 - 📈 *Data Structures & Algorithms (DSA)* to improve problem-solving skills  
